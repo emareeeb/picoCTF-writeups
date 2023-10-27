@@ -21,7 +21,7 @@ I've tried documenting all the challenges from PicoCTF 2023 in this repository, 
 4. [**Challenge Name 4**](challenges/challenge4.md)
 5. [**Challenge Name 5**](challenges/challenge5.md)
    ...
-   (List all challenges here)
+      (links)
 
 ## How to Use This Repository
 
