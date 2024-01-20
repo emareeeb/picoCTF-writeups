@@ -49,4 +49,4 @@ If you have any questions, suggestions, or feedback, please don't hesitate to re
 Happy hacking, and best of luck with your CTF journey! 🚀🔒💻
 
 
-//room : fix : /folders/files/qn:code/links
+//room : fix : /folders/files/qn:code/links/*fixing images*/
